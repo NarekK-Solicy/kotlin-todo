@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo list</string>
+    <string name="Addtodo">Add Todo</string>
+    <string name="tod_list"></string>
+    <string name="write_here_">Write here...</string>
+    <string name="remove">TODO</string>
+</resources>
